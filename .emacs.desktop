@@ -1,0 +1,987 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Jun 18 20:00:37 2016
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22373 64709 279403 0) (desktop . "206") "claym@Suleiman.local" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Source Code Pro-normal-normal-normal-*-11-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (foreground-color . "gray80") (background-color . "#181a26") (line-spacing) (left-fringe . 10) (right-fringe . 11) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (fullscreen) (display . "Suleiman.local") (display-type . color) (background-mode . dark) (cursor-color . "green") (visibility) (powerline-cache) (frameset--id . "89CC-EEB9-3027-1616") (frameset--mini t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (user-size . t) (height . 35) (width . 270) (left . 1925) (top . 0)) ((min-height . 4) (min-width . 20) (min-height-ignore . 2) (min-width-ignore . 10) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 60) (min-pixel-width . 120) (min-pixel-height-ignore . 28) (min-pixel-width-ignore . 70) (min-pixel-height-safe . 14) (min-pixel-width-safe . 28)) hc (pixel-width . 1911) (pixel-height . 476) (total-width . 273) (total-height . 34) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 959) (pixel-height . 476) (total-width . 137) (total-height . 34) (normal-height . 1.0) (normal-width . 0.5) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 10 11 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 270) (start . 1))) (leaf (last . t) (pixel-width . 952) (pixel-height . 476) (total-width . 136) (total-height . 34) (normal-height . 1.0) (normal-width . 0.5) (buffer "*Warnings*" (selected) (hscroll . 0) (fringes 10 11 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 74) (start . 1)))) (((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Source Code Pro-normal-normal-normal-*-11-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (foreground-color . "gray80") (background-color . "#181a26") (line-spacing) (left-fringe . 10) (right-fringe . 11) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (fullscreen) (display . "Suleiman.local") (display-type . color) (background-mode . dark) (cursor-color . "green") (visibility) (horizontal-scroll-bars . t) (environment) (powerline-cache) (frameset--id . "624C-6FC8-194C-011B") (frameset--mini t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (border-color . "#515151") (height . 35) (width . 80) (left . 1920) (top . 4)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 60) (min-pixel-width . 60) (min-pixel-height-ignore . 28) (min-pixel-width-ignore . 35) (min-pixel-height-safe . 14) (min-pixel-width-safe . 14)) leaf (pixel-width . 581) (pixel-height . 476) (total-width . 83) (total-height . 34) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 10 11 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (((font-backend mac-ct ns) (fontsize . 12) (font . "-*-Iosevka-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (foreground-color . "gray80") (background-color . "#181a26") (line-spacing) (left-fringe . 14) (right-fringe . 16) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (fullscreen . fullheight) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "green") (environment) (powerline-cache) (display . "Suleiman.local") (frameset--id . "45AB-6650-88E9-D4A6") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (user-size . t) (visibility . t) (height . 58) (width . 234) (left . 0) (top . 0)) ((min-height . 4) (min-width . 20) (min-height-ignore . 3) (min-width-ignore . 14) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 60) (min-pixel-width . 120) (min-pixel-height-ignore . 45) (min-pixel-width-ignore . 84) (min-pixel-height-safe . 15) (min-pixel-width-safe . 24)) hc (pixel-width . 1436) (pixel-height . 855) (total-width . 239) (total-height . 57) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 722) (pixel-height . 855) (total-width . 120) (total-height . 57) (normal-height . 1.0) (normal-width . 0.5031446540880503) (buffer "build_ios.sh" (selected) (hscroll . 0) (fringes 14 16 nil) (margins 1) (scroll-bars 0 0 nil nil) (vscroll . 0) (dedicated) (point . 382) (start . 1))) (leaf (last . t) (pixel-width . 714) (pixel-height . 855) (total-width . 119) (total-height . 57) (normal-height . 1.0) (normal-width . 0.4968553459119497) (buffer "packages.txt" (selected . t) (hscroll . 0) (fringes 14 16 nil) (margins 1) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("hl-sexp" "hl-se" "</Text>" "<Text " "</Text>" "<Text " "</Text>" "<Text " "<Text" "<Text " "<Text"))
+(setq regexp-search-ring '("borderTop" "productTitle" "qtycon" "product" "getShippingFromUserObject" "shipping = " "getmarketconfig" "getMarketConfig" "getCu" "localeservice" "localeService" "review =" "order_for" "governm" "name_oine" "name_"))
+(setq register-alist '((48 . "(aggressive-indent autopair color-theme-sanityinc-tomorrow cyberpunk-theme evil-args evil goto-chg undo-tree fiplr grizzl grizzl helm helm-core async popup async helm-core async hl-sexp icicles indent-guide jsx-mode magit magit-popup dash async git-commit with-editor dash async dash with-editor dash async dash async magit-popup dash async multi-term neotree php-mode popup powerline-evil powerline evil goto-chg undo-tree rainbow-delimiters smart-tab smooth-scroll smooth-scrolling solarized-theme dash sublime-themes undo-tree use-package diminish bind-key web-mode with-editor dash async)\n") (105) (113) (117)))
+(setq file-name-history '("/Users/claym/work/fancypants.js/.git/COMMIT_EDITMSG" "/Users/claym/work/Emailer.js/.git/COMMIT_EDITMSG" "/Users/claym/work/fancypants.js/.git/COMMIT_EDITMSG" "/Users/claym/work/uo.ng/.git/COMMIT_EDITMSG" "/Users/claym/work/corkscrew/.git/COMMIT_EDITMSG" "/Users/claym/work/fancypants.js/.git/COMMIT_EDITMSG"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/claym/packages.txt"
+  "packages.txt"
+  'text-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/scripts/build_ios.sh"
+  "build_ios.sh"
+  'sh-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  382
+  '(382 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode rainbow-delimiters-mode)
+  3
+  '(3 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/android/app/build.gradle"
+  "build.gradle"
+  'fundamental-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  2841
+  '(2841 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/ios/fancypants/Info.plist"
+  "Info.plist"
+  'nxml-mode
+  '(visual-line-mode undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  779
+  '(959 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/products.js"
+  "products.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  11242
+  '(11241 t)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/styles/products.style.js"
+  "products.style.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1133
+  '(1133 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/services/userService.js"
+  "userService.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  924
+  '(924 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/checkout.js"
+  "checkout.js"
+  'web-mode
+  '(visual-line-mode undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  55315
+  '(55315 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines)))
+
+(desktop-create-buffer 206
+  "/Users/claym/Desktop/kenbuild/SRC/A.ASM"
+  "A.ASM"
+  'asm-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-dos) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/cart.js"
+  "cart.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  7841
+  '(7841 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/markets.js"
+  "markets.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  2215
+  '(2215 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/buyingFor.js"
+  "buyingFor.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  2708
+  '(2708 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/translations/ko_KR.js"
+  "ko_KR.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1393
+  '(1393 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/services/errorService.js"
+  "errorService.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  371
+  '(371 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/translations/en_US.js"
+  "en_US.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  3585
+  '(3585 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views.js"
+  "views.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  875
+  '(875 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/api.js"
+  "api.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  12578
+  '(12578 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/login.js"
+  "login.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  925
+  '(925 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/form.js"
+  "form.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  14459
+  '(14459 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/styles/login.style.js"
+  "login.style.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  286
+  '(286 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/programmin/Falling Space/Falling Space/main.cpp"
+  "main.cpp"
+  'c++-mode
+  '(abbrev-mode undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  2276
+  '(3568 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/opt/homebrew-cask/Caskroom/emacs/24.5-1/Emacs.app/Contents/Resources/etc/HELLO"
+  "HELLO"
+  'fundamental-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode view-mode)
+  553
+  '(553 nil)
+  t
+  nil
+  '((tab-width . 32) (buffer-file-coding-system . iso-2022-7bit-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/Desktop/MX.csv"
+  "MX.csv"
+  'fundamental-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1025
+  '(1026 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/services/translate.js"
+  "translate.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  721
+  '(721 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/locales.js"
+  "locales.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  135
+  '(135 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/services/localeService.js"
+  "localeService.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  897
+  '(897 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/translation_files.js"
+  "translation_files.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  208
+  '(208 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/translations/es_MX.js"
+  "es_MX.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  2362
+  '(2362 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/header.js"
+  "header.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  4120
+  '(4120 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/headerComponents.js"
+  "headerComponents.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1653
+  '(1653 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/scripts/itunes_upload.sh"
+  "itunes_upload.sh"
+  'sh-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  673
+  '(673 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/utils.js"
+  "utils.js"
+  'js-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode rainbow-delimiters-mode)
+  1073
+  '(1073 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/fp_text.js"
+  "fp_text.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  357
+  '(357 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/fp_picker.ios.js"
+  "fp_picker.ios.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1033
+  '(1033 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/addressLookup.js"
+  "addressLookup.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode rainbow-delimiters-mode)
+  292
+  '(292 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/services/metricsService.js"
+  "metricsService.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1251
+  '(1251 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/metrics.js"
+  "metrics.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  3676
+  '(3676 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/dash.js"
+  "dash.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  3440
+  '(3440 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/commonImports.js"
+  "commonImports.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  917
+  '(917 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/services/styleService.js"
+  "styleService.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  14
+  '(14 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/index.ios.js"
+  "index.ios.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/frontline.js"
+  "frontline.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  5008
+  '(5008 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/orders.js"
+  "orders.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  5
+  '(5 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/settings.js"
+  "settings.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  151
+  '(151 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/news.js"
+  "news.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  476
+  '(476 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/services/storage.js"
+  "storage.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  3404
+  '(3404 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/link.js"
+  "link.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  273
+  '(273 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/services/productsService.js"
+  "productsService.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  934
+  '(934 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/input_accessory.js"
+  "input_accessory.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  296
+  '(296 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/popup.js"
+  "popup.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1936
+  '(1936 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/fp_picker.android.js"
+  "fp_picker.android.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  539
+  '(539 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/dropdown.js"
+  "dropdown.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  430
+  '(430 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/services/logService.js"
+  "logService.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  610
+  '(610 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/CONTRIBUTING.md"
+  "CONTRIBUTING.md"
+  'fundamental-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  140
+  '(140 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/Emailer.js/tests.js"
+  "tests.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  10409
+  '(10409 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/Emailer.js/emailer.js"
+  "emailer.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  7576
+  '(7576 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "Emailer.js"
+  'dired-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  656
+  '(656 nil)
+  t
+  '("/Users/claym/work/Emailer.js/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/styles/addressLookup.style.js"
+  "addressLookup.style.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  934
+  '(934 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/node_modules/react-native/Libraries/Components/TextInput/TextInput.js"
+  "TextInput.js"
+  'web-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  19436
+  '(19436 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/services/cartService.js"
+  "cartService.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  208
+  '(208 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/inputs.js"
+  "inputs.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  160
+  '(160 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "uo.ng"
+  'dired-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1
+  '(1 nil)
+  t
+  '("/Users/claym/work/uo.ng/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/services/icon.js"
+  "icon.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  384
+  '(384 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/package.json"
+  "package.json"
+  'js-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  228
+  '(228 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/android/app/src/main/java/com/com/unicity/fancypants/js/MainActivity.java"
+  "MainActivity.java"
+  'java-mode
+  '(abbrev-mode undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/ios/fancypants/AppDelegate.m"
+  "AppDelegate.m"
+  'objc-mode
+  '(abbrev-mode undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1005
+  '(1005 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/styles/checkout.style.js"
+  "checkout.style.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  226
+  '(226 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/android/app/src/main/AndroidManifest.xml"
+  "AndroidManifest.xml"
+  'nxml-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  83
+  '(83 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/ios/fancypantsTests/Info.plist"
+  "Info.plist"
+  'nxml-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  172
+  '(172 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/Hydra.php/src/v5/libraries/rest_apis/5/LoginTokens.php"
+  "LoginTokens.php"
+  'php-mode
+  '(abbrev-mode undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  8976
+  '(8976 nil)
+  nil
+  nil
+  '((show-trailing-whitespace) (tab-width . 4) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/components/fp_heading.js"
+  "fp_heading.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  362
+  '(297 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "services"
+  'dired-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  292
+  '(292 nil)
+  t
+  '("/Users/claym/work/fancypants.js/src/js/services/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "js"
+  'dired-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1054
+  '(1054 nil)
+  t
+  '("/Users/claym/work/fancypants.js/src/js/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  310
+  '(310 nil)
+  t
+  '("/Users/claym/work/fancypants.js/src/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "fancypants.js"
+  'dired-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1376
+  '(1376 nil)
+  t
+  '("/Users/claym/work/fancypants.js/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/ios/fancypants/Images.xcassets/LaunchImage.launchimage/launch_image.750x1334.png"
+  "launch_image.750x1334.png"
+  'fundamental-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode image-minor-mode)
+  27466
+  '(27466 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/node_modules/react-native/React/Base/RCTBatchedBridge.m"
+  "RCTBatchedBridge.m"
+  'objc-mode
+  '(abbrev-mode undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  31060
+  '(31061 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/uo.ng/src/app/services/user.js"
+  "user.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  5571
+  '(5571 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/views/about.js"
+  "about.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  856
+  '(856 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/README.md"
+  "README.md"
+  'fundamental-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  748
+  '(16 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/Makefile"
+  "Makefile"
+  'makefile-bsdmake-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/android/settings.gradle"
+  "settings.gradle"
+  'fundamental-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/claym/work/fancypants.js/src/js/styles/news.style.js"
+  "news.style.js"
+  'web-mode
+  '(undo-tree-mode linum-mode auto-revert-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  91
+  '(91 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "controllers"
+  'dired-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  508
+  '(508 nil)
+  t
+  '("/Users/claym/work/uo.ng/src/app/controllers/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "app"
+  'dired-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  490
+  '(490 nil)
+  t
+  '("/Users/claym/work/uo.ng/src/app/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  347
+  '(347 nil)
+  t
+  '("/Users/claym/work/uo.ng/src/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "views"
+  'dired-mode
+  '(undo-tree-mode linum-mode global-auto-revert-mode override-global-mode smooth-scroll-mode)
+  265
+  '(nil nil)
+  t
+  '("/Users/claym/work/fancypants.js/src/js/views/")
+  '((overwrite-mode)))
+
